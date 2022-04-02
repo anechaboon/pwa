@@ -1,0 +1,21 @@
+{
+    "background_color": "purple",
+    "description": "Shows random Pictures",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "icon/icon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "name": "Random Picture",
+    "short_name": "Picture",
+    "theme_color": "#FF9800",
+    "start_url": "index.html"
+}
